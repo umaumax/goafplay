@@ -1,1 +1,4 @@
-# afplay command caller in Max
+# afplay command caller
+
+Mac OS only
+
